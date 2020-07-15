@@ -1,5 +1,5 @@
 
-> Open this page at [https://akosblazsik.github.io/electron-three-microbit-vrobot-remote-control/](https://akosblazsik.github.io/electron-three-microbit-vrobot-remote-control/)
+> Open this page at [https://akosblazsik.github.io/microbit-vrobot-remote-control//](https://akosblazsik.github.io/microbit-vrobot-remote-control//)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/akosblazsik/electron-three-microbit-vrobot-remote-control** and import
+* search for **https://github.com/akosblazsik/microbit-vrobot-remote-control/** and import
 
 ## Edit this project ![Build status badge](https://github.com/akosblazsik/electron-three-microbit-vrobot-remote-control/workflows/MakeCode/badge.svg)
 
@@ -16,14 +16,14 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/akosblazsik/electron-three-microbit-vrobot-remote-control** and click import
+* paste **https://github.com/akosblazsik/microbit-vrobot-remote-control/** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/akosblazsik/electron-three-microbit-vrobot-remote-control/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/akosblazsik/microbit-vrobot-remote-control//raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
