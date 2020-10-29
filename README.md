@@ -1,5 +1,5 @@
 
-> Open this page at [https://akosblazsik.github.io/microbit-vrobot-remote-control//](https://akosblazsik.github.io/microbit-vrobot-remote-control//)
+> Open this page at [https://akosblazsik.github.io/microbit-vrobot-remote-control/](https://akosblazsik.github.io/microbit-vrobot-remote-control//)
 
 ## Use as Extension
 
