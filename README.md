@@ -1,5 +1,5 @@
 ## Description 
-This is a remote control for the [Virtual Robot] (https://github.com/akosblazsik/microbit-vrobot) built with Electron, Three.js and Micro:bit 
+This is a remote control for the ![Virtual Robot] (https://github.com/akosblazsik/microbit-vrobot) built with Electron, Three.js and Micro:bit 
 
 > Open this page at [https://akosblazsik.github.io/microbit-vrobot-remote-control/](https://akosblazsik.github.io/microbit-vrobot-remote-control/)
 
